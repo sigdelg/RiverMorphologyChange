@@ -1,0 +1,33 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>deposition</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-1.54083251953125</HistMin>
+        <HistMax>1.498237609863281</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|2|1|0|1|0|3|0|3|2|2|1|2|6|5|3|4|4|12|7|7|3|7|8|11|9|6|7|5|12|8|8|9|9|10|14|7|4|12|16|5|13|13|12|13|22|23|26|34|27|31|39|33|31|33|38|28|36|30|41|48|39|30|45|44|49|50|57|47|44|60|51|48|65|68|64|74|84|88|72|113|110|143|186|154|160|134|149|158|150|191|187|194|187|191|234|245|255|302|309|321|332|346|370|441|422|426|458|494|507|532|567|566|614|652|714|809|798|870|872|940|971|1141|1045|1090|1030|1061|1106|1119|1040|1089|997|912|958|924|888|919|885|885|800|773|735|729|682|666|637|599|549|556|556|492|496|497|481|511|503|426|459|499|478|441|479|434|461|430|420|414|390|388|386|352|357|364|359|352|353|317|330|325|337|336|285|286|311|280|281|261|270|200|220|166|162|141|121|107|105|101|95|76|77|63|47|42|47|57|58|54|53|52|44|42|48|30|58|54|36|37|45|35|24|36|25|26|22|23|28|30|24|33|41|24|37|32|26|36|26|18|20|12|14|10|9|6|6|4|0|2|0|0|0|0|1|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="BandName">deposition</MDI>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.1369984948958007</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.4982376098633</MDI>
+      <MDI key="STATISTICS_MEAN">0.10791410602844</MDI>
+      <MDI key="STATISTICS_MINIMUM">-1.5408325195313</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.3701330772787</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
